@@ -34,3 +34,31 @@
 
 **Link to work:**
 [Flexbox ToDo](https://priceless-tereshkova-a19962.netlify.com/)
+
+#
+
+### Day 2: April 16, 2019
+#####
+
+**Today's Progress**:
+
+***1.*** Completed Basic Landing Page with HTML & CSS from Codecademy.
+
+
+***2.*** Continued Tea Cozy Project on Codecademy
+
+
+***3.*** Continued videos on Git Essential Training on LinkedIn Learning
+
+
+**Thoughts:**
+
+***1.*** Based on the issues I'm having, it's safe to say I need more practice with CSS so next few days would be dedicated to that.
+
+***2.*** Still practising the nuances of git.
+
+***3.*** Have to ensure to reshuffle weekly goals and plan.
+
+**Link to work:**
+[Very Basic Landing](https://distracted-shannon-1fa5db.netlify.com/)
+[Basic Gallery with flexbox](https://oculzac.github.io/codecademy-boundary-spacing/)
