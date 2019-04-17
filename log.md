@@ -60,5 +60,8 @@
 ***3.*** Have to ensure to reshuffle weekly goals and plan.
 
 **Link to work:**
+
 [Very Basic Landing](https://distracted-shannon-1fa5db.netlify.com/)
+
+
 [Basic Gallery with flexbox](https://oculzac.github.io/codecademy-boundary-spacing/)
