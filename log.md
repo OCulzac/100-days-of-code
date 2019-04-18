@@ -65,3 +65,33 @@
 
 
 [Basic Gallery with flexbox](https://oculzac.github.io/codecademy-boundary-spacing/)
+
+
+
+#
+
+### Day 3: April 17, 2019
+#####
+
+**Today's Progress**:
+
+***1.*** Completed Amazing Space Project on Codecademy.
+
+
+***2.*** Continued Tea Cozy Project on Codecademy
+
+
+***3.*** Continued videos and practice on Git Essential Training on LinkedIn Learning
+
+
+**Thoughts:**
+
+***1.*** Good practice gotten again from that project. Made massive gains on the Tea Cozy project
+
+***2.*** Still practising the nuances of git.
+
+***3.*** Have to ensure to reshuffle weekly goals and plan.
+
+**Link to work:**
+
+[Amazing Space Project](https://oculzac.github.io/ca-learncss-amaspa-proj/)
