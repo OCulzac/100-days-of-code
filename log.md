@@ -95,3 +95,30 @@
 **Link to work:**
 
 [Amazing Space Project](https://oculzac.github.io/ca-learncss-amaspa-proj/)
+
+#
+
+### Day 4-5: April 18 & 19, 2019
+#####
+
+**Today's Progress**:
+
+***1.*** Completed Tea Cozy Project on Codecademy **FINALLY!!!!**. Shout-out to @CynthiasParadox on twitter for the assist!
+
+
+***2.*** Started Javascript Scope
+
+
+***3.*** Continued videos and practice on Git Essential Training on LinkedIn Learning
+
+
+**Thoughts:**
+
+***1.*** The Tea Cozy project was a challenging one. Somehow have
+
+***2.*** git pull from remote repo to fastforward local repo so that both versions are in sync. Git is Lit.
+
+
+**Link to work:**
+
+[Tea Cozy Project](https://oculzac.github.io/tea-cozy-proj/)
