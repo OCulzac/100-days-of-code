@@ -122,3 +122,29 @@
 **Link to work:**
 
 [Tea Cozy Project](https://oculzac.github.io/tea-cozy-proj/)
+
+
+### Day 6-8: April 23 - 25, 2019
+#####
+
+**Progress**:
+
+***1.*** Completed Python Data Science Toolbox 2 DataCamp course.
+
+
+***2.*** Started Importing Data in Python Course on DataCamp
+
+
+***3.*** Continued videos and practice on Git Essential Training on LinkedIn Learning
+
+
+**Thoughts:**
+
+***1.*** Deeper knowledge of python after latest certificate
+
+***2.*** learning about branching, sha and head and other working on git is really interesting.
+
+
+**Link to work:**
+
+[Python Data Science Toolbox github](https://github.com/OCulzac/python-data-science-toolbox-2)
