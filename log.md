@@ -148,3 +148,30 @@
 **Link to work:**
 
 [Python Data Science Toolbox github](https://github.com/OCulzac/python-data-science-toolbox-2)
+
+
+
+### Day 9: April 26, 2019
+#####
+
+**Progress**:
+
+***1.*** Completed Importing Data in Python Part 1 DataCamp course.
+
+
+***2.*** Continued videos and practice on Git Essential Training on LinkedIn Learning
+
+
+**Thoughts:**
+
+***1.*** That was a fun course today! Importing the different data types and sql manipulation in python is really interesting
+
+***2.*** git learning never ends.
+
+
+**Link to work:**
+
+[Importing Data in Python Part 1 github](https://github.com/OCulzac/importing-data-in-python-part-1)
+
+
+
